@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+main {
+    max-width:800px;
+    margin:auto;
+    
+}
+
+body, main, header, article, footer, section {
+    padding:10px;
+    border:1px solid gray;
+    
+}
+article, section {background:skyblue;}
+
+header,footer {background:burlywood;}
